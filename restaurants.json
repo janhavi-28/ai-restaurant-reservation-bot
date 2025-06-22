@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Spice Hub",
+    "location": "Koramangala",
+    "cuisine": "North Indian",
+    "capacity": 40,
+    "available_times": ["12pm", "6pm", "8pm"]
+  },
+  {
+    "name": "Taste of Tibet",
+    "location": "Indiranagar",
+    "cuisine": "Tibetan",
+    "capacity": 20,
+    "available_times": ["1pm", "7pm"]
+  },
+  {
+    "name": "Green Bowl",
+    "location": "HSR Layout",
+    "cuisine": "Veg",
+    "capacity": 30,
+    "available_times": ["12pm", "4pm", "7pm"]
+  },
+  {
+    "name": "Bella Pasta",
+    "location": "Whitefield",
+    "cuisine": "Italian",
+    "capacity": 50,
+    "available_times": ["1pm", "6pm", "9pm"]
+  },
+  {
+    "name": "Dragon Palace",
+    "location": "Indiranagar",
+    "cuisine": "Chinese",
+    "capacity": 25,
+    "available_times": ["12pm", "7pm"]
+  },
+  {
+    "name": "South Spice",
+    "location": "Koramangala",
+    "cuisine": "South Indian",
+    "capacity": 45,
+    "available_times": ["11am", "3pm", "7pm"]
+  },
+  {
+    "name": "BBQ House",
+    "location": "HSR Layout",
+    "cuisine": "Barbecue",
+    "capacity": 35,
+    "available_times": ["1pm", "5pm", "8pm"]
+  },
+  {
+    "name": "Roti & Curry",
+    "location": "Whitefield",
+    "cuisine": "North Indian",
+    "capacity": 30,
+    "available_times": ["12pm", "6pm"]
+  },
+  {
+    "name": "Vegan Delight",
+    "location": "Indiranagar",
+    "cuisine": "Vegan",
+    "capacity": 20,
+    "available_times": ["2pm", "6pm", "9pm"]
+  },
+  {
+    "name": "Sushi World",
+    "location": "Koramangala",
+    "cuisine": "Japanese",
+    "capacity": 15,
+    "available_times": ["1pm", "7pm"]
+  },
+  {
+    "name": "Dosa Corner",
+    "location": "HSR Layout",
+    "cuisine": "South Indian",
+    "capacity": 25,
+    "available_times": ["10am", "1pm", "6pm"]
+  },
+  {
+    "name": "Grill Master",
+    "location": "Whitefield",
+    "cuisine": "Grill",
+    "capacity": 40,
+    "available_times": ["12pm", "3pm", "7pm"]
+  },
+  {
+    "name": "The Curry Leaf",
+    "location": "Koramangala",
+    "cuisine": "Indian",
+    "capacity": 30,
+    "available_times": ["1pm", "5pm", "9pm"]
+  },
+  {
+    "name": "Urban Biryani",
+    "location": "HSR Layout",
+    "cuisine": "Biryani",
+    "capacity": 40,
+    "available_times": ["1pm", "6pm", "8pm"]
+  },
+  {
+    "name": "Coastal Catch",
+    "location": "Whitefield",
+    "cuisine": "Seafood",
+    "capacity": 20,
+    "available_times": ["12pm", "7pm"]
+  },
+  {
+    "name": "Asian Treat",
+    "location": "Indiranagar",
+    "cuisine": "Asian",
+    "capacity": 25,
+    "available_times": ["2pm", "6pm"]
+  },
+  {
+    "name": "Burger Haven",
+    "location": "Koramangala",
+    "cuisine": "Fast Food",
+    "capacity": 35,
+    "available_times": ["1pm", "4pm", "9pm"]
+  },
+  {
+    "name": "Thali Junction",
+    "location": "HSR Layout",
+    "cuisine": "Indian",
+    "capacity": 30,
+    "available_times": ["12pm", "6pm"]
+  },
+  {
+    "name": "Tandoori Nights",
+    "location": "Whitefield",
+    "cuisine": "Mughlai",
+    "capacity": 45,
+    "available_times": ["1pm", "5pm", "8pm"]
+  },
+  {
+    "name": "Global Grains",
+    "location": "Indiranagar",
+    "cuisine": "Continental",
+    "capacity": 30,
+    "available_times": ["11am", "6pm", "8pm"]
+  }
+]
